@@ -61,7 +61,7 @@ If you like my work or want to collaborate, feel free to connect:
 
 -  Email: aqsa999qambrani@gmail.com  
 -  [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shahnaz-aqsa-7129642a3/))  
--  Portfolio: [portfolio-link]([https://your-portfolio-link.com](https://shahnaz999aqsa.pythonanywhere.com/))
+-  Portfolio: [portfolio-link.com]([https://your-portfolio-link.com](https://shahnaz999aqsa.pythonanywhere.com/))
 
 ---
 
