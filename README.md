@@ -60,7 +60,7 @@ Each task explores a different ML concept such as data preprocessing, regression
 If you like my work or want to collaborate, feel free to connect:
 
 -  Email: aqsa999qambrani@gmail.com  
--  LinkedIn: (https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shahnaz-aqsa-7129642a3/) 
+-  LinkedIn: (https://www.linkedin.com/in/shahnaz-aqsa-7129642a3/) 
 -  Portfolio: (https://shahnaz999aqsa.pythonanywhere.com/)
 
 ---
