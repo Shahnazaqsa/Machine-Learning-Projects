@@ -21,6 +21,7 @@ Each task explores a different ML concept such as data preprocessing, regression
 - Bonus: Feature engineering & performance comparison
 
  [Go to Task 1 Folder](./StudentScorePrediction)
+ [Go to Task 2 Folder](./MallCustomerSegmentation)
 
 ---
 
