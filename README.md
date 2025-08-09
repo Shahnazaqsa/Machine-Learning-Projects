@@ -69,8 +69,9 @@ Each task explores a different ML concept such as data preprocessing, regression
 
 ##  Project Status
 
- Task 1 — Completed  
- Task 2 onwards — Coming soon...
+ Task 1 — Completed
+ Task 2 - Completed
+ Task 3 onwards — Coming soon...
 
 ---
 
