@@ -21,6 +21,24 @@ Each task explores a different ML concept such as data preprocessing, regression
 - Bonus: Feature engineering & performance comparison
 
  [Go to Task 1 Folder](./StudentScorePrediction)
+
+### Task 2: Mall Customer Segmentation
+> Cluster mall customers into distinct segments based on their annual income and spending score.
+
+**Key Highlights:**
+
+- Data Scaling & Preprocessing
+
+- Exploratory Data Analysis (EDA) and distribution visualization
+
+- K-Means Clustering with Elbow Method to determine optimal cluster count
+
+- 2D Scatter Plot visualizations of customer segments
+
+- Interpretation of cluster profiles (high spenders, budget-conscious, etc.)
+
+- Bonus: Experimented with alternative clustering algorithms (e.g., DBSCAN) for comparison
+- 
  [Go to Task 2 Folder](./MallCustomerSegmentation)
 
 ---
