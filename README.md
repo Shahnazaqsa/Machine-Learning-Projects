@@ -38,14 +38,31 @@ Each task explores a different ML concept such as data preprocessing, regression
 - Interpretation of cluster profiles (high spenders, budget-conscious, etc.)
 
 - Bonus: Experimented with alternative clustering algorithms (e.g., DBSCAN) for comparison
-- 
+  
  [Go to Task 2 Folder](./MallCustomerSegmentation)
 
----
+### Task 2: Loan Approval Prediction
 
-*(More tasks will be added here as the internship progresses...)*
+ 
+### Task 4: Movie Recommendation System
+A content-based movie recommendation system that suggests films based on user similarity. Built with collaborative filtering techniques using the MovieLens 100K dataset.
 
----
+- Features
+User-user similarity using cosine similarity
+
+Personalized movie recommendations
+
+Precision@K evaluation metric
+
+Clean, interpretable Python implementation
+
+Dataset
+MovieLens 100K dataset containing:
+
+100,000 ratings from 943 users
+
+1,682 movies
+ [Go to Task 3 Folder](./MovieRecommendation)
 
 ##  Tools & Libraries
 
