@@ -43,26 +43,52 @@ Each task explores a different ML concept such as data preprocessing, regression
 
 ### Task 2: Loan Approval Prediction
 
- 
+Loan Approval Prediction (Binary Classification)
+Objective: Predict whether a loan application will be approved based on applicant features.
+***Key Features:***
+- Handled missing values and encoded categorical features
+
+- Addressed class imbalance using SMOTE techniques
+
+- Evaluated model performance using precision, recall, and F1-score
+
+- Compared logistic regression vs. decision tree classifiers
+
+
+***Key Features:***
+- Cleaned and preprocessed geographical data
+
+- Handled categorical features appropriately
+
+- Trained and evaluated multi-class classification models
+
+- Visualized confusion matrices and feature importance
+
+- Implemented techniques to address class imbalance
+
+***Key Techniques***
+- Data preprocessing and feature engineering
+
+- Handling class imbalance with SMOTE
+
+- Hyperparameter tuning for classification models
+
+- Model evaluation with appropriate metrics
+
+- Feature importance visualization
+-[Go to Task 3 Folder](./LoanApprovalPrediction)
+
 ### Task 4: Movie Recommendation System
 A content-based movie recommendation system that suggests films based on user similarity. Built with collaborative filtering techniques using the MovieLens 100K dataset.
 
-- Features
-User-user similarity using cosine similarity
+***Features***
+- User-user similarity using cosine similarity
 
-Personalized movie recommendations
+- Personalized movie recommendations
 
-Precision@K evaluation metric
+- Precision@K evaluation metric
 
-Clean, interpretable Python implementation
-
-Dataset
-MovieLens 100K dataset containing:
-
-100,000 ratings from 943 users
-
-1,682 movies
- [Go to Task 3 Folder](./MovieRecommendation)
+-[Go to Task 4 Folder](./MovieRecommendation)
 
 ##  Tools & Libraries
 
